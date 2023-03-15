@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorldPlus</string>
+    <string name="up_message">Insertar missatge d\'acomiadament</string>
+    <string name="down_message">Insertar nombre de repeticions</string>
+    <string name="ex_bye">Ex: Bye</string>
+    <string name="ex_6">Ex: 6</string>
+    <string name="bye_screen">Go to bye screen</string>
+    <string name="back">Go back</string>
+</resources>
